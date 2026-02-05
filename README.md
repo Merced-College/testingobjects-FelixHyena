@@ -1,4 +1,5 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22531846)
 # testingObjects
 
-this is an example of a ReadMe file.
+Checkpoint Q1: What does printing an object with no toString show, and why?
+  Printing dog1 prints out Dog@4517d9a3. This happens because Java comes with different methods including toString().By default, Java takes dog1 and gives it a default name of its class name + its hashcode of its memory address.
