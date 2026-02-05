@@ -14,3 +14,7 @@ Checkpoint Q2: Record what your three fields printed as defaults. Which are prim
 
   - The primitives are age and the refrence types are name and breed.
 
+Checkpoint Q3: How do constructors change the initialization story compared to Part B?
+
+  When constructors, in this case the default constructor, is removed, the object d1 and d2 are no longer able to have default values. This makes it so that if some objects are not defined right off the bat, there will be an error since Java doesnt know how to define it.
+
