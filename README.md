@@ -62,6 +62,6 @@ Checkpoint Q5: Why prefer private fields with getters/setters over public fields
 
 9) Why is encapsulation (private fields + getters/setters) preferred over public fields? Give one concrete validation rule you could add to a setter.
 
-  Encapsulation is preferred over public fields because they are a lot more vulnerable. Without private fields, it becomes more prone to mistakes while coding and is not protected. A rule id add to a setter would be to se certain private variables
-  from the start.
+  Encapsulation is preferred over public fields because they are a lot more vulnerable. Without private fields, it becomes more prone to mistakes while coding and is not protected. A rule id add to a setter would be to se certain private
+  variables from the start.
     
